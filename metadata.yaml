@@ -1,0 +1,51 @@
+_repo: Memoirs-of-the-Duchesse-de-Dino-v.1-3_42249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42249-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dino, Dorothée, duchesse de
+    aliases:
+    - Dorothée, princesse de Courlande
+    - De Dino, Dorothée, duchesse
+    - Courlande, Dorothée de, duchesse de Dino
+    - Dino, Dorothee, duchesse de
+    - Dorothea, Duchess of Sagan
+    - Biron, Dorothea von
+    - Talleyrand-Périgord, Dorothée von Biron, duchesse de
+    - Sagan, Dorothée, princesse de
+    - Dorothea, Herzogin von Sagan
+    birthdate: 1793
+    deathdate: 1862
+    gutenberg_agent_id: '31551'
+    url: http://www.gutenberg.org/2009/agents/31551
+    wikipedia: http://fr.wikipedia.org/wiki/Doroth%C3%A9e_de_Courlande
+  editor:
+    agent_name: Radziwill, Marie Dorothea Elisabeth de Castellane, Fürstin
+    aliases:
+    - De Castellane, Marie Dorothea Elisabeth, Fürstin
+    - Radziwill, Marie Dorothea Elisabeth de Castellane, Furstin
+    - Castellane, Marie Dorothea Elisabeth de, Fürstin
+    birthdate: 1840
+    deathdate: 1915
+    gutenberg_agent_id: '31550'
+    url: http://www.gutenberg.org/2009/agents/31550
+description: ''
+gutenberg_issued: '2013-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42249'
+  lccn: '10007574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dino, Dorothée, duchesse de, 1793-1862'
+- !lcc 'DC'
+- !lcsh 'France -- Foreign relations -- 1830-1848'
+- !lcsh 'Europe -- Politics and government -- 1815-1848'
+title: Memoirs of the Duchesse de Dino (Afterwards Duchesse de Talleyrand et de Sagan),
+  1831-1835
+url: http://www.gutenberg.org/ebooks/42249
