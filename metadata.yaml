@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '31550'
     url: http://www.gutenberg.org/2009/agents/31550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42249#Memoirs-of-the-Duchesse-de-Dino-v.1-3
 gutenberg_issued: '2013-03-03'
 gutenberg_type: Text
 identifiers:
